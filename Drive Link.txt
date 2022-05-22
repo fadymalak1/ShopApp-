@@ -1,1 +1,7 @@
+My Shop App using Bloc and Api ,
+You Can change Language from english to Arabic.
+I made Dark Theme.
+Login and Register Screen Validation ,
+to open Home Screen you should Sign Up First 
+
 https://drive.google.com/file/d/1lRzoYI6Sjt9_kS_JLShDhm3ILjFmLDm-/view?usp=sharing
